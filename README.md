@@ -3,6 +3,7 @@
 <p align="center">
 <img class="img-rounded" src="/assets/img/blog-image.png" alt="GrootAI" width="300">
 </p>
+
 GrootAI is **Machine Learning Study Group** composed of people from various fields. It started in March 2018. 
 
 
