@@ -36,7 +36,7 @@
 - [Linkedin Group](https://www.linkedin.com/groups/10542314/)
   
 ### Conatact
-grootseminar@gmail.com
+- grootseminar@gmail.com
 
 
 ## License
