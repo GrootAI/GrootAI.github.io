@@ -4,9 +4,7 @@
 <img class="img-rounded" src="/assets/img/blog-image.png" alt="GrootAI" width="300">
 </p>
 
-- https://grootai.github.io/
-
-- GrootAI is **Machine Learning Study Group** composed of people from various fields. It started in March 2018. 
+- [GrootAI is](https://grootai.github.io/) **Machine Learning Study Group** composed of people from various fields. It started in March 2018. 
 
 
 ### About Seminar
