@@ -9,6 +9,7 @@ permalink: /about/
 
 # About
 GrootAI is **Machine Learning Study Group** composed of people from various fields. It started in March 2018. 
+More detailed information can be found [here](https://github.com/GrootAI/Groot_SEMINAR)  
 
 ### Seminar Topics 
 - Deep Learning
