@@ -1,12 +1,12 @@
 
 # GrootAI Blog
 
-<img class="img-rounded" src="/assets/img/blog-image.png" alt="GrootAI" width="300">
+<img class="img-rounded" align="center" src="/assets/img/blog-image.png" alt="GrootAI" width="300">
 
 GrootAI is **Machine Learning Study Group** composed of people from various fields. It started in March 2018. 
 
 
-## About Seminar
+### About Seminar
 - https://github.com/GrootAI/Groot_SEMINAR
 
 
