@@ -17,18 +17,18 @@ permalink: /staff/
         {% if author.position %}
           <h3 class="position">{{ author.position }}</h3>
         {% endif %}
-        <h4 class="blog">
+        <p>
         {% if author.github_username %}
           <a href="https://github.com/{{ author.github_username }}" title="Github">
-            <svg><use xlink:href="#icon-github"></use></svg>
+            <svg><use xlink:href="#icon-github" width="32" height="32"></use></svg>
           </a>
         {% endif %}
         {% if author.linkedin_username %}
           <a href="https://www.linkedin.com/in/{{ author.linkedin_username }}" title="LinkedIn">
-            <svg><use xlink:href="#icon-linkedin"></use></svg>
+            <svg><use xlink:href="#icon-linkedin" width="32" height="32"></use></svg>
           </a>
         {% endif %}
-        </h4>
+        </p>
       </div>
     {% endif %}
   {% endfor %}
