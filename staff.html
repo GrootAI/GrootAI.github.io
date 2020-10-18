@@ -17,7 +17,7 @@ permalink: /staff/
         {% if author.position %}
           <h3 class="position">{{ author.position }}</h3>
         {% endif %}
-        <p>
+        <p style="margin-bottom: 20px">
           {% if author.github_username %}
             <a href="https://github.com/{{ author.github_username }}" title="Github">
               <svg class="icon" viewBox="0 0 32 27" width="27" height="27">
@@ -50,7 +50,7 @@ permalink: /staff/
         {% if author.position %}
           <h3 class="position">{{ author.position }}</h3>
         {% endif %}
-        <p>
+        <p style="margin-bottom: 15px">
           {% if author.github_username %}
             <a href="https://github.com/{{ author.github_username }}" title="Github">
               <svg class="icon" viewBox="0 0 32 27" width="27" height="27">
@@ -83,7 +83,7 @@ permalink: /staff/
         {% if author.position %}
           <h3 class="position">{{ author.position }}</h3>
         {% endif %}
-        <h3>
+        <p style="margin-bottom: 10px">
           {% if author.github_username %}
             <a href="https://github.com/{{ author.github_username }}" title="Github">
               <svg class="icon" viewBox="0 0 32 27" width="27" height="27">
@@ -98,7 +98,7 @@ permalink: /staff/
               </svg>
             </a>
           {% endif %}
-        </h3>
+        </p>
       </div>
     {% endif %}
   {% endfor %}
