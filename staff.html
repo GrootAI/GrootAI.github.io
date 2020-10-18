@@ -15,21 +15,22 @@ permalink: /staff/
           <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
         </h2>
         {% if author.position %}
-          <h3 class="position">{{ author.position }}</h3>
-        {% endif %}
-        {% if author.github_username %}
-          <a href="https://github.com/{{ author.github_username }}" title="Github">
-            <svg class="icon" viewBox="0 0 32 28" width="28" height="28">
-              <use xlink:href="#icon-github" width="28" height="28"/>
-            </svg>
-          </a>
-        {% endif %}
-        {% if author.linkedin_username %}
-          <a href="https://www.linkedin.com/in/{{ author.linkedin_username }}" title="LinkedIn">
-            <svg class="icon" viewBox="0 0 32 28" width="28" height="28">
-              <use xlink:href="#icon-linkedin" width="28" height="28"/>
-            </svg>
-          </a>
+          <h3 class="position">{{ author.position }}
+            {% if author.github_username %}
+              <a href="https://github.com/{{ author.github_username }}" title="Github">
+                <svg class="icon" viewBox="0 0 32 28" width="28" height="28">
+                  <use xlink:href="#icon-github" width="28" height="28"/>
+                </svg>
+              </a>
+            {% endif %}
+            {% if author.linkedin_username %}
+              <a href="https://www.linkedin.com/in/{{ author.linkedin_username }}" title="LinkedIn">
+                <svg class="icon" viewBox="0 0 32 28" width="28" height="28">
+                  <use xlink:href="#icon-linkedin" width="28" height="28"/>
+                </svg>
+              </a>
+            {% endif %}
+          </h3>
         {% endif %}
       </div>
     {% endif %}
