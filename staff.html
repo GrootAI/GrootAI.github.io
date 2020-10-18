@@ -16,18 +16,18 @@ permalink: /staff/
         </h2>
         {% if author.position %}
           <h3 class="position">{{ author.position }}
-            &nbsp;&nbsp;&nbsp;
+            <br>
             {% if author.github_username %}
               <a href="https://github.com/{{ author.github_username }}" title="Github">
-                <svg class="icon" viewBox="0 0 29 24" width="24" height="24">
-                  <use xlink:href="#icon-github" width="24" height="24"/>
+                <svg class="icon" viewBox="0 0 32 27" width="27" height="27">
+                  <use xlink:href="#icon-github" width="27" height="27"/>
                 </svg>
               </a>
             {% endif %}
             {% if author.linkedin_username %}
               <a href="https://www.linkedin.com/in/{{ author.linkedin_username }}" title="LinkedIn">
-                <svg class="icon" viewBox="0 0 29 24" width="24" height="24">
-                  <use xlink:href="#icon-linkedin" width="24" height="24"/>
+                <svg class="icon" viewBox="0 0 32 27" width="27" height="27">
+                  <use xlink:href="#icon-linkedin" width="27" height="27"/>
                 </svg>
               </a>
             {% endif %}
