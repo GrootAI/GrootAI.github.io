@@ -3,8 +3,7 @@ date: 2020-10-17T17:14:05.000Z
 layout: post
 title: Active Learning for Community Detection in Stochastic Block Models
 subtitle: Is community recovery possible even when D(a, b) < 1 in a symmetric SBM environment?
-description: >-
-  Is community recovery possible even when D(a, b) < 1 in a symmetric SBM environment?
+description: Is community recovery possible even when D(a, b) < 1 in a symmetric SBM environment?
 image: >-
   https://res.cloudinary.com/dthouk4zq/image/upload/v1602922548/active_iigsos.png
 optimized_image: >-
