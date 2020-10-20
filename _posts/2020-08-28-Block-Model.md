@@ -3,6 +3,7 @@ date: 2020-08-28T23:48:05.000Z
 layout: post
 title: Block Model Guided Unsupervised Feature Selection
 subtitle: How to effectively select features by utilizing SBM.
+description: How to effectively select features by utilizing SBM.
 image: >-
   https://res.cloudinary.com/dthouk4zq/image/upload/v1602333954/sbm_sgxps9.jpg
 optimized_image: >-
