@@ -3,6 +3,8 @@ date: 2020-10-19T20:00:00.000Z
 layout: post
 title: Sampling methods for statistical inference
 subtitle: Several important sampling methods used in Bayesian statistics
+description: >-
+  Several important sampling methods used in Bayesian statistics
 image: >-
   https://res.cloudinary.com/dthouk4zq/image/upload/v1603209729/gibs_mo5e0b.gif
 optimized_image: >-
