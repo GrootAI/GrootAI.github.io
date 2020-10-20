@@ -2,8 +2,7 @@
 date: 2020-09-16T23:48:05.000Z
 layout: post
 title: Stochastic Blockmodels meet Graph Neural Networks
-description: >-
-  Latent Feature Modeling via Indian Buffet Process with Graph Neural Networks.
+subtitle: Latent Feature Modeling via Indian Buffet Process with Graph Neural Networks.
 image: >-
   https://res.cloudinary.com/dthouk4zq/image/upload/v1602333954/ibp_rzbnpx.png
 optimized_image: >-
