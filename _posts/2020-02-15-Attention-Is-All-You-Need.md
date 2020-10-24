@@ -2,10 +2,8 @@
 date: 2020-02-15 22:55:45
 layout: post
 title: Attention Is All You Need
-subtitle: What’s the structure in my dataset or what are the
-symmetries in my dataset and is there a model that exists that has the inductive biases to model these properties that exist in my dataset.
-description: What’s the structure in my dataset or what are the
-symmetries in my dataset and is there a model that exists that has the inductive biases to model these properties that exist in my dataset.
+subtitle: What’s the structure in my dataset or what are the symmetries in my dataset and is there a model that exists that has the inductive biases to model these properties that exist in my dataset.
+description: What’s the structure in my dataset or what are the symmetries in my dataset and is there a model that exists that has the inductive biases to model these properties that exist in my dataset.
 image: https://res.cloudinary.com/dfnkx5mr1/image/upload/v1602307993/post_img/luong2015-fig2-3_fpyymg.png
 optimized_image: https://res.cloudinary.com/dfnkx5mr1/image/upload/v1602307993/post_img/luong2015-fig2-3_fpyymg.png
 category: NLP
