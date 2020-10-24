@@ -21,6 +21,7 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: false
+url: "https://grootai.github.io"
 
 # Content paginator
 paginate_content:
