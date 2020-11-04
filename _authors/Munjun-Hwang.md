@@ -1,12 +1,12 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/mun.jpg
 name: Munjun-Hwang
 display_name: Munjun Hwang
 staff: founder
 position: M.S Candidate
-bio: M.S Candidate in Dept. of Computer Science in Sogang Univ.
-github_username: blank
+bio: B.A Candidate in Business Administration, and minor is Artificial Intelligence at Sogang Univ.
+github_username: Hwnag702
 linkedin_username: mun-jun-0827141a4
 ---
 
