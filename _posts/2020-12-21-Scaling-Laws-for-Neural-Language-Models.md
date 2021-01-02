@@ -4,8 +4,7 @@ layout: post
 title: Scaling Laws for Neural Language Models
 subtitle: 
 description: 
-image: https://res.cloudinary.com/dthouk4zq/image/upload/v1604336284/mtl_wjb5ii.jpg
-optimized_image: https://res.cloudinary.com/dthouk4zq/image/upload/c_scale,w_380/v1604336284/mtl_wjb5ii.png
+optimized_image: https://res.cloudinary.com/dfnkx5mr1/image/upload/c_limit,h_200,w_380/v1609604334/post_img/1_Ru8S_DMZv9ipDZVKKNL_4A_nib9st.jpg
 category: Deep Learning Theory
 tags:
   - Deep Learning Theory
@@ -15,7 +14,7 @@ author: Kyuyong-Shin
 ---
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/keWxPIVzFd8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3Ga_Q98L9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### References
 arxiv: https://arxiv.org/abs/2001.08361
