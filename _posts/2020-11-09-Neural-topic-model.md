@@ -4,8 +4,7 @@ layout: post
 title: Neural Topic Modeling with Continual Lifelong Learning
 subtitle: Recent advances in topic modeling
 description: Recent advances in topic modeling
-image: https://res.cloudinary.com/dthouk4zq/image/upload/v1604336284/mtl_wjb5ii.jpg
-optimized_image: https://res.cloudinary.com/dthouk4zq/image/upload/c_scale,w_380/v1604336284/mtl_wjb5ii.png
+optimized_image: https://res.cloudinary.com/dfnkx5mr1/image/upload/c_crop,h_200,w_380/v1609603301/post_img/germany-media-newspaper-magazine-press-freedom-print-3_knsx7z.jpg
 category: Unsupervised Learning
 tags:
   - Topic Modeling

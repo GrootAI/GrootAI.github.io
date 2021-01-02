@@ -4,8 +4,7 @@ layout: post
 title: Reducing Domain Gap via Style-Agnostic Networks
 subtitle: 
 description: 
-image: https://res.cloudinary.com/dthouk4zq/image/upload/v1604336284/mtl_wjb5ii.jpg
-optimized_image: https://res.cloudinary.com/dthouk4zq/image/upload/c_scale,w_380/v1604336284/mtl_wjb5ii.png
+optimized_image: https://res.cloudinary.com/dfnkx5mr1/image/upload/c_limit,h_200,w_380/v1609603868/post_img/chicago_candy_bclkeh.png
 category: Deep Learning
 tags:
   - Deep Learning 
