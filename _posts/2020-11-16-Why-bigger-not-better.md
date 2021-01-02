@@ -1,7 +1,7 @@
 ---
 date: 2020-11-16T01:50:00.000Z
 layout: post
-title: Why bigger is not always better: on finite and infinite neural networks
+title: Why bigger is not always better - on finite and infinite neural networks
 subtitle: 
 description: 
 image: https://res.cloudinary.com/dthouk4zq/image/upload/v1604336284/mtl_wjb5ii.jpg
