@@ -3,7 +3,7 @@ date: 2020-12-07T01:50:00.000Z
 layout: post
 title: Federated Learning intro
 subtitle: New statistical challenges from decentralized data
-description: 
+description: New statistical challenges from decentralized data
 optimized_image: https://res.cloudinary.com/dfnkx5mr1/image/upload/c_limit,h_200,w_380/v1609604045/post_img/fed_bwnaqj.jpg
 category: Federated Learning
 tags:
