@@ -15,4 +15,4 @@ author: Hansam-Cho
 ### Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6V1d4kmsfRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Hansam briefly introduced Matching Networks, Prototypical Networks, Siamese Networks, Relation Networks
+Meta learning can be described as "learning to learn." It means model learns the learning strategy. There is a three main approach in meta learning: metric-based, model-based, and optimization-based. Metric-based approach is easy to use and can be used in any model, so it is popular and well-studied method. In this seminar I briefly introduced metric-based meta learning methods: Matching Netwroks, Prototypical Networks, and Relation Networks.
